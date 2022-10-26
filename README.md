@@ -6,9 +6,10 @@ Weather Conditions in World War Two
     1) Linear Reg
     2) Lasso Reg                
     3) Decision Tree Reg         
-    4) Random Forest Reg              
-    5) Bagging Reg                
-    6) Neural Network
+    4) Random Forest Reg
+    5) XGBoost Reg
+    6) Bagging Reg                
+    7) Neural Network
 
 # Linear Reg:
 MAE :3.182757106660331<br>
