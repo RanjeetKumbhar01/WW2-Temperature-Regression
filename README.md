@@ -11,6 +11,11 @@ Kaggle:
     5) XGBoost Reg
     6) Bagging Reg                
     7) Neural Network
+    
+    
+Enjoy the Notebook :)<br>
+@Ranjeetkumbhar01<br><br>
+
 
 # Linear Reg:
 MAE :3.182757106660331<br>
