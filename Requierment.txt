@@ -3,6 +3,5 @@ Matplotlib
 Seaborn
 PIL
 Tensorflow
-Keras datasets
 Sklearn
 Xgboost 
