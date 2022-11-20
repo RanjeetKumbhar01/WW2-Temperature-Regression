@@ -2,7 +2,7 @@
 Weather Conditions in World War Two
 
 Dataset: https://www.kaggle.com/datasets/smid80/weatherww2/code?datasetId=3759&sortBy=voteCount <br>
-Kaggle: 
+Kaggle: https://www.kaggle.com/code/ranjeetkumbhar/ww2-temperature-regression<br>
 ## Algorithms
     1) Linear Reg
     2) Lasso Reg                
